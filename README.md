@@ -1,6 +1,6 @@
 
 
-- - 🔭 I'm a Final year BCA student from SGGSWU,Faehgarh sahib
+- 🔭 I'm a Final year BCA student from SGGSWU,Faehgarh sahib
 - 📚 I'm currently learning Front-End
 
 <!---
