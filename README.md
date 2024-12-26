@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring 
 
 ## 📂 **Repositories to Explore**
 - 🐍 **[Python Journey](https://github.com/Gurpal-saghi-9/Python)**: Dive into my Python learning and projects.  
-- 🌐 **JavaScript Chronicles**: Exploring dynamic web development with JS.  
+- 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Exploring dynamic web development with JS.  
 - 🎨 **Frontend Playground**: Experimenting with stunning UI designs and frameworks.  
 
 ---
