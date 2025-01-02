@@ -16,12 +16,10 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring 
 ---
 
 
-<div align="center">
+
 [![Gurpal Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=radical)](https://github.com/Gurpal-saghi-9)
 ![Gurpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurpal-saghi-9&show_icons=true&theme=dark)
 
-  
-</div>
 
 ## 📂 **Repositories to Explore**
 - 🐍 **[Python Journey](https://github.com/Gurpal-saghi-9/Python)**: Dive into my Python learning and projects.  
