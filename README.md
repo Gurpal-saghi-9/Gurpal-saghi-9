@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring 
 
 
 
-[![Gurpal Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=radical)](https://github.com/Gurpal-saghi-9)
+
 ![Gurpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurpal-saghi-9&show_icons=true&theme=dark)
 
 
@@ -47,3 +47,22 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring 
 > _"The journey of a thousand lines of code begins with a single semicolon."_  
 
 Let's code, collaborate, and create a better world together! 🌎✨
+
+
+###
+
+<div align="center">
+  <img src=###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssg1276&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Gurpal-saghi-9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gurpal-saghi-9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###  />
+  <img src="https://streak-stats.demolab.com?user=Gurpal-saghi-9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpal-saghi-9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
