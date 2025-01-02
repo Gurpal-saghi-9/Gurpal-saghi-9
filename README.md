@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring 
 
 ---
 
+[![Gurpal Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=radical)](https://github.com/Gurpal-saghi-9)
+
 <div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9E&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
 >
