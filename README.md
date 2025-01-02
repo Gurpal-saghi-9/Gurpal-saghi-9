@@ -57,6 +57,7 @@ Let's code, collaborate, and create a better world together! 🌎✨
 </div>
 
 ###
+###
 <img src="https://raw.githubusercontent.com/gurpal-saghi-9/gurpal-saghi-9/output/snake.svg" alt="Snake animation" />
 ###
 
