@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring 
 
 
 
-
-![Gurpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurpal-saghi-9&show_icons=true&theme=dark)
-
-
 ## 📂 **Repositories to Explore**
 - 🐍 **[Python Journey](https://github.com/Gurpal-saghi-9/Python)**: Dive into my Python learning and projects.  
 - 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Exploring dynamic web development with JS.  
@@ -55,7 +51,7 @@ Let's code, collaborate, and create a better world together! 🌎✨
   <img src=###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssg1276&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Gurpal-saghi-9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gurpal-saghi-9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
