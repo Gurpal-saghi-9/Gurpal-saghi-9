@@ -60,7 +60,7 @@ Let's code, collaborate, and create a better world together! 🌎✨
 
 ###
 
-<img src="https://raw.githubusercontent.com/ssg1276/ssg1276/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gurpal-saghi-9/gurpal-saghi-9/output/snake.svg" alt="Snake animation" />
 
 ###
 
