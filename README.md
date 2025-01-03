@@ -19,14 +19,6 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
@@ -37,9 +29,10 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 
 ## 📂 **Featured Repositories**
 - 🐍 **[Python Chronicles](https://github.com/Gurpal-saghi-9/Python)**: Track my Python learning journey and exciting projects.  
-- 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Dive into dynamic web development with JavaScript.  
+- 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Dive into dynamic web development with JavaScript.
+- - 🛠️ **[C++ with DSA](https://github.com/Gurpal-saghi-9/DSA-Begin)**: A repository dedicated to mastering DSA with C++.   
 - 🎨 **Frontend Playground**: Experimenting with UI designs and frameworks like React.js and TailwindCSS.  
-- 🛠️ **[C++ with DSA](https://github.com/Gurpal-saghi-9/Cplusplus-DSA)**: A repository dedicated to mastering DSA with C++.  
+
 
 ---
 
