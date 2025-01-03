@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 ## 📂 **Featured Repositories**
 - 🐍 **[Python Chronicles](https://github.com/Gurpal-saghi-9/Python)**: Track my Python learning journey and exciting projects.  
 - 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Dive into dynamic web development with JavaScript.
-- - 🛠️ **[C++ with DSA](https://github.com/Gurpal-saghi-9/DSA-Begin)**: A repository dedicated to mastering DSA with C++.   
+- 🛠️ **[C++ with DSA](https://github.com/Gurpal-saghi-9/DSA-Begin)**: A repository dedicated to mastering DSA with C++.   
 - 🎨 **Frontend Playground**: Experimenting with UI designs and frameworks like React.js and TailwindCSS.  
 
 
