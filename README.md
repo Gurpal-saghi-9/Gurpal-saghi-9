@@ -1,59 +1,64 @@
-# 👋 Hello, World! I'm Gurpal Singh 🌟  
-
-Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and aspiring **full-stack developer** exploring the limitless possibilities of **programming** and **technology**.  
+# 👋 Hey there! I'm **Guru Singh** 🚀  
+Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiring **full-stack developer**. My goal is to explore, learn, and build exciting projects in the world of programming and technology! 🌟  
 
 ---
 
 ## 🚀 **About Me**
-- 🔭 I'm a Final year BCA student from SGGSWU, Fatehgarh Sahib
-- 🎓 **Learning**: On a journey to master Python, JavaScript, and beyond.  
-- 💡 **Interests**: Frontend development, backend integration, and building complete web applications.  
-- 🛠️ **Currently Working On**:  
-  - 🌐 Developing a GitHub repository to document my Python coding journey or DSA. 
-  - 💻 Exploring modern frontend technologies like **React.js** and **Vue.js**.  
-  - 🛠️ Expanding backend skills with **Node.js** and **Express.js**.
+- 🎓 Final-year **BCA student** at SGGSWU, Fatehgarh Sahib.  
+- 💻 Currently diving deep into **Python**, **JavaScript**, and **C++** with DSA.  
+- 🔭 Exploring **frontend** and **backend development** to become a well-rounded full-stack developer.  
+- 🌱 Always eager to learn new technologies and frameworks.  
 
 ---
 
+## 🌟 **My Tech Stack**
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
+### **Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
-## 📂 **Repositories to Explore**
-- 🐍 **[Python Journey](https://github.com/Gurpal-saghi-9/Python)**: Dive into my Python learning and projects.  
-- 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Exploring dynamic web development with JS.  
-- 🎨 **Frontend Playground**: Experimenting with stunning UI designs and frameworks.  
+### **Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+
+### **Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
 ---
 
-## 🌟 **My Skills**
-- 🖥️ Programming: **Python**, **JavaScript**, **HTML/CSS**, and **C/C++**.  
-- 🎨 Frontend: **React.js**, **Bootstrap**, **Tailwind CSS**.  
-- 🛠️ Backend: **Node.js**, **Express.js**.  
-- 🌐 Tools: Git, GitHub, and VS Code.  
-- 💬 Languages: English, Hindi, and Punjabi.  
+## 📂 **Featured Repositories**
+- 🐍 **[Python Chronicles](https://github.com/Gurpal-saghi-9/Python)**: Track my Python learning journey and exciting projects.  
+- 🌐 **[JavaScript Chronicles](https://github.com/Gurpal-saghi-9/Javascript)**: Dive into dynamic web development with JavaScript.  
+- 🎨 **Frontend Playground**: Experimenting with UI designs and frameworks like React.js and TailwindCSS.  
+- 🛠️ **[C++ with DSA](https://github.com/Gurpal-saghi-9/Cplusplus-DSA)**: A repository dedicated to mastering DSA with C++.  
 
 ---
 
-## ✨ **Let’s Connect!**
+## 📊 **GitHub Stats**
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=Gurpal-saghi-9&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />  
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpal-saghi-9&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />  
+</div>  
+
+---
+
+## 🌐 **Connect with Me**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/gurpal-singh-40b969245)**  
 - 📸 **[Instagram](https://www.instagram.com/its_guru_0234?igsh=MWZraDkwbGh6dmEzcg==)**  
-- 📧 **Email**: Gurusaghi324@gmail.com 
+- 📧 **Email**: Gurusaghi324@gmail.com  
 
 ---
 
-> _"The journey of a thousand lines of code begins with a single semicolon."_  
+> _"Code is like humor. When you have to explain it, it’s bad."_  
 
-Let's code, collaborate, and create a better world together! 🌎✨
-
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Gurpal-saghi-9&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpal-saghi-9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-  <br/>
-
-<br/><br/>
-
+Let’s code and innovate together! 🚀✨  
