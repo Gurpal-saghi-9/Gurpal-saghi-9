@@ -38,7 +38,9 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img width=390 src=https://github-readme-streak-stats.herokuapp.com/?user=Gurpal-saghi-9&theme=react&border_radius=10/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gurpal-saghi-9&theme=highcontrast&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Gurpal-saghi-9&theme=highcontrast&hide_border=true&border_radius=4.7"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpal-saghi-9&theme=react&border_radius=10"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />  
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpal-saghi-9&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />  
 </div>  
