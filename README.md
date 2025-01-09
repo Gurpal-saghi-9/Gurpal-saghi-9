@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=Gurpal-saghi-9&theme=dark&hide_border=true)" alt="GitHub Streak Stats" />  
+  <img width=390 src="https://streak-stats.demolab.com/?user=nishant-Tiwari24&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />  
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpal-saghi-9&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />  
 </div>  
