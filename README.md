@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gurpal-saghi-9&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gurpal-saghi-9&theme=dark&hide_border=true)](https://git.io/streak-stats)
   <img width=390 src="https://streak-stats.demolab.com/?user=Gurpal-saghi-9&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://streak-stats.demolab.com/?user=Gurpal-saghi-9&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />  
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />  
