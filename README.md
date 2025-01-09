@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Guru Singh** 🚀  
+# 👋 Hey there! I'm **Gurpal Singh** 🚀  
 Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiring **full-stack developer**. My goal is to explore, learn, and build exciting projects in the world of programming and technology! 🌟  
 
 ---
