@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast** and an aspiri
 
 ## 📊 **GitHub Stats**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpal-saghi-9&theme=react&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpal-saghi-9&theme=react&border_radius=10)]
 
 
 <div align="center">
