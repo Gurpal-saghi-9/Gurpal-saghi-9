@@ -41,6 +41,7 @@ Explore my latest works and contributions:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpal-saghi-9&theme=tokyonight&border_radius=8" width="400" alt="GitHub Streak Stats">  
   <img src="https://github-readme-stats.vercel.app/api?username=Gurpal-saghi-9&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8" width="400" alt="GitHub Stats">  
+   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpal-saghi-9&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" /> 
 </div>  
 
 ---
