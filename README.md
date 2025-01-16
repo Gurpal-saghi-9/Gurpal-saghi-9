@@ -1,5 +1,5 @@
-# 👋 Hi, I’m **Guru Singh**  
-Welcome to my GitHub! I’m a passionate **tech enthusiast** and an aspiring **full-stack developer**. My mission? To explore, learn, and create innovative solutions through code! 🚀  
+# 👋 Hey there! I'm **Gurpal Singh** 🚀
+Welcome to my GitHub! I’m a passionate **tech enthusiast** and an aspiring **full-stack developer**. My mission? To explore, learn, and create innovative solutions through code! 🌟🚀  
 
 ---
 
